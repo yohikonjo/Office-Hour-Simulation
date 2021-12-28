@@ -11,3 +11,6 @@ Prompt: You are tasked with helping your professor schedule his office hours. Th
 •	Multithreading
 •	Parallel programming
 •	Concurrency controls
+# Program Execution
+•	As the program uses pthread.h make sure to add the -lpthread option during compilation
+•	Also I have included several test cases in the test_cases folder to run with the program 
