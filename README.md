@@ -7,3 +7,7 @@ Prompt: You are tasked with helping your professor schedule his office hours. Th
 •	To ensure fairness the professor will help a student from the other class if he helps 5 consecutive students from a single class
 •	A student will not be forced to wait assuming the criteria for entering are fulfilled i.e. the professor os not on break, they are not the 6th consecutive student, they are in the same class as the other students in the office, etc.
 •	The program will not deadlock
+# Functions
+•	Multithreading
+•	Parallel programming
+•	Concurrency controls
